@@ -40,7 +40,7 @@ a:link {
 	font-weight: bold;
 	text-decoration: none;
 	color: #ca6e7e;
-	
+
 	}
 a:visited {
 	font-weight: bold;
@@ -98,10 +98,10 @@ abbr {
 
 [role="banner"] h1 { padding: 1em 0 0; text-transform: uppercase; letter-spacing: 0.1em; font-size: 3.5rem; font-weight: 800; color: #79253f; visibility: hidden; }
 [role="banner"] h1:before { content: "CSS Zen Garden"; visibility: visible; display: block; }
-[role="banner"] h1:after { content: "Zen Garden"; visibility: visible; display: block; color: #aaa; letter-spacing: 0.5em; font-size: 1.2rem; font-weight: normal; margin: 0.5em 0 3em; color: rgba(133, 53, 53, 0.4); }
+[role="banner"] h1:after { content: "A School Project by Phuong Ngo"; visibility: visible; display: block; color: #aaa; letter-spacing: 0.5em; font-size: 1.2rem; font-weight: normal; margin: 0.5em 0 3em; color: rgba(133, 53, 53, 0.4); }
 
 [role="banner"] h2 { visibility: hidden; display: none; font-weight: 400; color: rgba((133, 53, 53, 0.4)); }
-/* [role="banner"] h2:after { content: "Impeccable Quality"; visibility: visible; display: block; } */
+[role="banner"] h2:after { content: "ART 109 Fall 2022"; visibility: visible; display: block; }
 
 
 /*-------------------------------------------
