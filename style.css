@@ -308,69 +308,6 @@ footer { font-size: 1.3rem; }
 }
 
 
-/*-------------------------------------------
-	IE, i.e. Internet Explorer (heh)
--------------------------------------------*/
-
-@media screen and (min-width:0\0) { /* IE9 and IE10 rule sets go here */
-
-   .main h3, .preamble h3, .select { visibility: visible; }
-   [role="banner"] h1 { visibility: visible; width: auto; display: block; }
-
-   .main h3:after, .preamble h3:after, .select:after { display: none; }
-   [role="banner"] h1:before { display: none; }
-
-}
-
-
-/* IE8 and below */
-.main h3, .preamble h3, .select { visibility: visible\9; font-size: 20px\9; }
-.main h3:after, .preamble h3:after, .select:after { display: none\9; }
-
-.page-wrapper { width: 800px\9; }
-.preamble { padding-top: 50px\9; margin-top: 50px\9; }
-
-h1 { font-size: 48px\9; text-transform: uppercase\9; margin: 0\9; padding-top: 30px\9;}
-h2 { font-size: 20px\9; }
-
-.next a, .previous a, .viewall a, .zen-resources a { background-image: url(i/czg.png)\9; }
-
-
-
-/* IE7 & below */
-.next a,
-.previous a,
-.viewall a,
-.zen-resources a {
-	*background: none;
-	*width: auto;
-	*height: auto;
-	*display: block;
-	*text-indent: 0;
-	*white-space: normal;
-	*overflow: visible;
-}
-
-.design-archives {
-	*position: static;
-	*margin-top: 30px;
-}
-
-.design-archives li {
-	*display: inline;
-	*margin-right: 20px;
-}
-
-.next {
-	*margin-right: 2em;
-	*margin-left: -0.4em;
-}
-
-.viewall {
-	*margin-left: 0;
-}
-
-
 /*
 .extra1 {
 	background: transparent url(http://csszengarden.com/001/cr2.gif) top left no-repeat;
