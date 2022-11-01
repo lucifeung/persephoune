@@ -248,7 +248,7 @@ abbr {
 .preamble {
   background: transparent url(images/insertpatternhere.png) no-repeat 50% 0;
 }
-/* 
+/*
 .preamble h3:after {
   visibility: visible;
   content: "Character Artist Portfolio";
@@ -318,35 +318,6 @@ abbr {
   height: 1px;
 }
 
-/*
-.select:after { content: "Menu"; font-size: 1.9rem; text-align: center; width: 10em; margin: 0 auto 2em; background: transparent url(i/waves.png) no-repeat 50% 0; padding: 2em 0 0; color: #79253f; visibility: visible; }
-
-.archives, .resources { position: absolute; left: -9999px;  } */
-/* footer { font-family: 'Source Code Pro', monospace; font-size: 1.3rem; }
-	footer a { margin-left: 1em; }
-	footer a:first-child { margin-left: 0; }
-
-.zen-resources ul { list-style: none; margin: 2em 0 4em; text-align: center; }
-.zen-resources ul:before { content: ""; height: 4px; width: 80px; background: #d5d9dc; display: block; text-align: center; margin: 0 auto 2em; }
-	.zen-resources li { margin: 0 0 1em 3em; display: inline-block; }
-	.zen-resources li:first-child { margin-left: 0; }
-		.zen-resources a { display: inline-block; text-indent: 100%; white-space: nowrap; overflow: hidden; background: transparent url(s/czg.svg) no-repeat 0 0; width: 60px; height: 60px; }
-
-		.view-css a { background-position: -502px 12px; }
-		.view-css a:hover, .view-css a:focus { background-position: -502px -78px; }
-
-		.css-resources a { background-position: -150px -194px; }
-		.css-resources a:hover, .css-resources a:focus { background-position: -150px -286px; }
-
-		.zen-faq a { background-position: -265px -192px; }
-		.zen-faq a:hover, .zen-faq a:focus { background-position: -265px -284px; }
-
-		.zen-submit a { background-position: -502px -194px; }
-		.zen-submit a:hover, .zen-submit a:focus { background-position: -502px -286px; }
-
-		.zen-translations a { background-position: -380px -193px; }
-		.zen-translations a:hover, .zen-translations a:focus { background-position: -380px -285px; }
- */
 @media screen and (min-width: 700px) {
   body {
     background-attachment: fixed;
@@ -439,67 +410,6 @@ abbr {
     -moz-mask-image: url(i/denim-mask2.png);
     mask-image: url(i/denim-mask2.png);
   }
-
-  /* .summary p:nth-child(2) {
-    background: yellow;
-    position: relative;
-    visibility: hidden;
-    top: 2em;
-    font-family: 'Source Code Pro', monospace;
-    font-size: 1.4rem;
-  }
-
-  .summary p:nth-child(2):before {
-    content: "";
-    display: block;
-    visibility: visible;
-    position: absolute;
-    right: 21em;
-    top: -0.25em;
-    width: 6em;
-    height: 30px;
-  }
-
-  .summary p:nth-child(2):after {
-    content: "";
-    display: block;
-    visibility: visible;
-    position: absolute;
-    right: 14em;
-    top: -0.25em;
-    background: transparent url(s/czg.svg) no-repeat -277px 0;
-    width: 6em;
-    height: 30px;
-  }
-
-  .summary p:nth-child(2) a {
-    visibility: visible;
-    background: transparent url(s/czg.svg) no-repeat -376px -93px;
-    width: 6em;
-    height: 25px;
-    text-indent: 100%;
-    white-space: nowrap;
-    overflow: hidden;
-    display: block;
-    position: absolute;
-    top: 0;
-    right: 7em;
-  }
-
-  .summary p:nth-child(2) a:hover, .summary p:nth-child(2) a:focus {
-    background-position: -396px -3px;
-    text-indent: 0;
-    background: none;
-  }
-
-  .summary p:nth-child(2) a[href*="css"] {
-    background-position: -472px -94px;
-    right: 0;
-  }
-
-  .summary p:nth-child(2) a[href*="css"]:hover, .summary p:nth-child(2) a[href*="css"]:focus {
-    background-position: -512px -4px;
-  } */
 
   .preamble {
     padding-top: 10em;
