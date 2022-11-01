@@ -39,7 +39,7 @@ function preload() {
   fishfamily3[2] = loadImage('assets/f333.png')
 
    snd1 = loadSound("sound/pop.mp3");
-   snd2 = loadSound("sound/bgm.mp3");
+   snd2 = loadSound("sound/bgmusic.mp3");
    snd3 = loadSound("sound/bubble.mp3");
 
 }
