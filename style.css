@@ -588,15 +588,7 @@ abbr {
   animation: glow 1s ease-in-out infinite alternate;
 }
 
-/*
-.extra1 {
-	background: transparent url(http://csszengarden.com/001/cr2.gif) top left no-repeat;
-	position: absolute;
-	top: 40px;
-	right: 0;
-	width: 148px;
-	height: 110px;
-	} */
+
 /* .extra2 {
 		background-image: url("images/cherryblossom2.png");
 		background-repeat: no-repeat;
